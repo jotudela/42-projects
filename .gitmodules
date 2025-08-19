@@ -13,3 +13,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = https://github.com/jotudela/so_long.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/jotudela/push_swap.git
