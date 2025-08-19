@@ -10,3 +10,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/jotudela/pipex.git
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/jotudela/so_long.git
