@@ -25,3 +25,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = https://github.com/jotudela/philosophers.git
+[submodule "cub3D"]
+	path = cub3D
+	url = https://github.com/jotudela/cub3D.git
