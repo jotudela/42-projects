@@ -4,25 +4,25 @@
 
 class User
 {
-    private:
+	private:
 
-        std::string _nickName;
-        std::string _userName;
-        bool _registered;
+		std::string _nickName;
+		std::string _userName;
+		bool _registered;
 
-        User( const User & );
-        User& operator=( const User & );
+		User( const User & );
+		User& operator=( const User & );
 
-    public:
+	public:
 
-        User();
-        ~User();
+		User();
+		~User();
 
-        const std::string& getNickName() const;
-        const std::string& getUserName() const;
-        bool getStatus() const;
+		const std::string& getNickName() const;
+		const std::string& getUserName() const;
+		bool getStatus() const;
 
-        void setNickName( const std::string& nickName );
-        void setUserName( const std::string& userName );
-        void setStatus( bool registered );
+		void setNickName( const std::string& nickName );
+		void setUserName( const std::string& userName );
+		void setStatus( bool registered );
 };
