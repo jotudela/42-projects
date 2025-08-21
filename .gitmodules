@@ -31,3 +31,6 @@
 [submodule "inception"]
 	path = inception
 	url = https://github.com/jotudela/inception.git
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/jotudela/ft_irc.git
