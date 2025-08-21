@@ -1,0 +1,20 @@
+<h1 align="center">42_projects</h1>
+
+| Level | Name | Language / Tools | 42 Grade | Overview |
+|:--------:|:---------:|:----------:|:-------:|:-------------:|
+| 0 | [libft](https://github.com/jotudela/libft) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![libft grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | `libft` is a basic C static-library built from scratch, which mimics about 50 core functions of C Standard Library. |
+||||||
+| 1 | [ft_printf](https://github.com/jotudela/ft_printf) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![printf grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `ft_printf` is a `printf` C function made from scratch. |
+| 1 | [born2beroot](https://youtu.be/OQEdjt38ZJA?si=j-SVSa2KCUIL9Y8m) | [![My Skills](https://skillicons.dev/icons?i=bash,linux)](https://skillicons.dev) | ![b2br grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | Introduction to System Administration via VM Configuration. |
+| 1 | [get_next_line](https://github.com/jotudela/get_next_line)| [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![gnl grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | `get_next_line` is a program that returns a line read from a file descriptor.|
+||||||
+| 2 | [pipex](https://github.com/jotudela/pipex) | [![My Skills](https://skillicons.dev/icons?i=c,linux)](https://skillicons.dev) | ![pipex grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |  `pipex` simulates a shell command pipeline, connecting inputs and outputs between shell commands. |
+| 2 | [push_swap](https://github.com/jotudela/push_swap) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![push_swap grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `push_swap` program requires sorting a stack of numbers using limited operations efficiently. |
+||||||
+| 3 | [minishell](https://github.com/jotudela/minishell) | [![My Skills](https://skillicons.dev/icons?i=c,bash,linux)](https://skillicons.dev) | ![minishell grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `minishell` is about creating a basic UNIX shell with command-line and process management. |
+| 3 | [philosophers](https://github.com/jotudela/philosophers) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![philo grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `philosophers` tackles the dining philosophers problem, focusing on thread-based solutions.|
+||||||
+| 4 | [cub3d](https://github.com/jotudela/cub3D) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![cub3d grade](https://img.shields.io/badge/:-110%25-success?style=flat-square&logo=42) | `cub3d` involves creating a simple 3D game engine using raycasting techniques throught [MiniLibX](https://github.com/42Paris/minilibx-linux).|
+| 4 | [cpp_42](https://github.com/jotudela/cpp_42) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | ![cpp grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `cpp_42` actually compiles 10 sub-project where we learn basics OOP concepts throught C++ .|
+||||||
+| 5 | [inception](https://github.com/jotudela/inception) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,bash,nginx,wordpress,mariadb&theme=dark)](https://skillicons.dev) | ![inception_grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `inception` helps us master containers fundamentals with Docker.|
